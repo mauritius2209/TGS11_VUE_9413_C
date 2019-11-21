@@ -1,0 +1,15 @@
+<svg width="593" height="730" viewBox="0 0 593 730" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="593" height="730">
+<rect width="593" height="730" rx="4" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="-313" y="-22" width="1067" height="790" rx="4" fill="url(#pattern0)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(0 -0.176448) scale(0.00167504 0.00226237)"/>
+</pattern>
+<image id="image0" width="597" height="598" 
+xlink:href= "https://www.google.com/url?sa=isource=imagescd=ved=2ahUKEwit2MfenvnlAhUDQH0KHTiaAAQQjRx6BAgBEAQurl=https%3A%2F%2Fincomerankings.com%2Fusertestingpsig=AOvVaw1Zszx2190t-490L3fust=1574354759183238"/>
+</defs>
+</svg>
